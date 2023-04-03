@@ -1,11 +1,13 @@
 title: Andy Wang # your name (or website title) here
 logo: "/images/round_profile_picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data scientist with 1+ years of precision marketing experience in analytics, 
+  predictive model , data viz and a master degree in statistics from Chengchi University.
+  Currently at Sinyi Realty Inc.
+Data scientist with 1+ years of precision marketing experience in analytics, predictive model , data viz and a master degree in statistics from Chengchi University. Currently at Sinyi Realty Inc.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/%E6%8F%86%E5%BA%AD-%E7%8E%8B-691209202/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
